@@ -43,7 +43,7 @@ const Cardmaker = props => {
                 <Boxsizer>skin_color: {props.data.skin_color}</Boxsizer>
                 <Boxsizer>eye_color: {props.data.eye_color}</Boxsizer>
                 <Boxsizer>birth_year: {props.data.birth_year}</Boxsizer>
-                <Boxsizer>surface_water: {props.data.surface_water}</Boxsizer>
+               
                 <Boxsizer>gender: {props.data.gender}</Boxsizer>
             </Innerbox>
         </Outerbox>
